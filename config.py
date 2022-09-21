@@ -7,4 +7,3 @@ TOKEN = config("TOKEN")
 bot = Bot(TOKEN)
 dp = Dispatcher(bot=bot, storage=storage)
 ADMINS = [1168975355]
-#asa dfsdf
